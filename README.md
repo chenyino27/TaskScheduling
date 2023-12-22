@@ -53,8 +53,8 @@ Environment](https://ieeexplore.ieee.org/abstract/document/6973741).
 
 ### Built With
 
-* [![C++][isocpp.org]][Next-url]
-* [![Xcode][developer.apple.com/documentation/xcode]][Xcode-url]
+* [C++](https://isocpp.org)
+* [Xcode](https://developer.apple.com/documentation/xcode)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
